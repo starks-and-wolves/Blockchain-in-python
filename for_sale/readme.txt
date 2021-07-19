@@ -1,0 +1,1 @@
+contains a .json file to hold the assets details that are for sale.
